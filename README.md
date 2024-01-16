@@ -156,7 +156,7 @@ Course assessments take the form of weekly assignments, a final project, and
 participation and attendance. Check the schedule above for links to the
 assignments.
 
-### Overview of Assignments
+#### Overview of Assignments
 
 We will have weekly assignments that are relevant to material from the previous
 class. These assignments are required, and you should be prepared to share and
@@ -166,7 +166,7 @@ culminates with a final independent project. You are expected to push your
 abilities to produce something that utilizes what you have learned in the course
 that is useful in some manner to yourself or the world.
 
-### Final Course Evaluation
+#### Final Course Evaluation
 
 Final course evaluation will be based on participation and attendance, and the completion of all assignments, including the final independent project, according to this breakdown:
 
