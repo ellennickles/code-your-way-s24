@@ -132,9 +132,8 @@ a free and online whiteboard with chat functionality to collaborate and share re
 
 - You must check your NYU email for important updates about class.
 - You are welcome to attend Student Hours in person or on Zoom.
-- Use our course website on GitHub to check the schedule (updated as needed
-  based on our pace and interests), assignment descriptions, and links to course
-  materials including resources in Google Drive.
+- Use our course website here on GitHub to check the schedule (updated as needed
+  based on our pace and interests), assignments, and links to course materials including resources in Google Drive.
 
 #### Support
 
@@ -159,12 +158,13 @@ assignments.
 #### Overview of Assignments
 
 We will have weekly assignments that are relevant to material from the previous
-class. These assignments are required, and you should be prepared to share and
-talk about them in class. It is expected that everyone in our class will create
-and maintain a blog (or something similar) for their assignments. The course
-culminates with a final independent project. You are expected to push your
-abilities to produce something that utilizes what you have learned in the course
-that is useful in some manner to yourself or the world.
+class, and you should be prepared to share and talk about them in class. It is expected that everyone in our class will create and maintain a blog (or Notion, Google Doc, etc.) for their assignments.
+
+All assignments are required, and unless otherwise stated, are due the night before our class meets, one (1) week after they are assigned. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together.
+
+The course culminates with a final independent project. You are expected to push
+your abilities to produce something that utilizes what you have learned in the
+course that is useful in some manner to yourself or the world.
 
 #### Final Course Evaluation
 
@@ -178,7 +178,36 @@ This class uses a [Pass/Fail](https://itp.nyu.edu/help/pass-fail/) grading syste
 
 ### Policies
 
-#### Participation
+#### Generative AI Tools
+
+The emergence of generative AI tools, such as Open AI's ChatGPT and GitHub's
+CoPilot, is exciting for creative coders. We can use these tools to brainstorm
+ideas, to write code snippets or entire solutions for our projects, as well as
+to debug our programs and explain technical concepts. These tools are
+increasingly sophisticated, and we should learn how to effectively use them.
+However, we must use such tools responsibly not just because of their
+limitations (randomness, bias, incorrect information, privacy, copyrighted
+material) but also, if you are still new to creating with code, overreliance on
+AI and without critical reflection can potentially hinder independent thinking,
+creativity, and dull understanding. Our goal is to learn how to use
+these tools enhance these, not hinder. To this end we will intentionally
+experiment with generative AI tools for some assignments
+and activities, but not all, to meet our course learning objectives. When use of
+the tool is allowed, it will be explicitly noted in the directions. You are
+responsible for all parts of an assignment; if an AI tool violates intellectual
+property laws or contain misinformation or unethical content, it is your
+responsibility to find and fix the errors before submitting. When you use
+generative AI tools for any part of your assignment (from idea generation to
+code generation to program debugging), document how you used it and cite the
+tool by providing a link to an online chat or include a screenshot or saved file of the tool's output.
+
+*Adapted from the [NYU Faculty Use of Generative AI in Coursework:
+Frequently Asked Questions](https://t.e2ma.net/click/w9j5ci/ozu8bgf/4fuzym) (PDF) and related university resources: [Instructor Generative
+AI Guides](https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-with-generative-tools.html#instructor)
+and [Student Learning with Generative
+AI](https://www.nyu.edu/faculty/teaching-and-learning-resources/Student-Learning-with-Generative-AI.html)*
+
+#### Class participation
 
 This class is highly participatory, and there are many ways to demonstrate your
 engagement with the course material and with your peers:
@@ -189,7 +218,7 @@ engagement with the course material and with your peers:
 - share your assignments and progress with the class;
 - engage in group exercises with curiosity and enthusiasm;
 - help your peers by sharing your knowledge and experience;
-- attend Student Hours for review or enrichment.
+- attend Student Hours for review and/or enrichment.
 
 #### Absences
 
@@ -229,7 +258,7 @@ More specifically, plagiarism is to present as your own:
 
 [Learners] are expected to build their own work on that of other people, just as
 professional artists, scholars, and writers do. [Collaboration is highly valued
-and often necessary to produce great work.] Giving credit to the creator of
+and often necessary to produce great work.] **Giving credit to the creator of
 the work you are incorporating into your own work is an act of integrity;
 plagiarism, on the other hand, is a form of fraud. Proper acknowledgment and
 correct citation constitute the difference. [Learners] should consult with
