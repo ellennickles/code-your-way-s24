@@ -191,15 +191,15 @@ material) but also, if you are still new to creating with code, overreliance on
 AI and without critical reflection can potentially hinder independent thinking,
 creativity, and dull understanding. Our goal is to learn how to use
 these tools enhance these, not hinder. To this end we will intentionally
-experiment with generative AI tools for some assignments
-and activities, but not all, to meet our course learning objectives. When use of
-the tool is allowed, it will be explicitly noted in the directions. You are
-responsible for all parts of an assignment; if an AI tool violates intellectual
-property laws or contain misinformation or unethical content, it is your
-responsibility to find and fix the errors before submitting. When you use
-generative AI tools for any part of your assignment (from idea generation to
-code generation to program debugging), document how you used it and cite the
-tool by providing a link to an online chat or include a screenshot or saved file of the tool's output.
+experiment with generative AI tools for some assignments and activities, but not
+all, to meet our course learning objectives. When use of the tool is allowed, it
+will be explicitly noted in the directions. You are responsible for all parts of
+an assignment; if an AI tool violates intellectual property laws or contain
+misinformation or unethical content, it is your responsibility to find and fix
+the errors before submitting. When you use generative AI tools for any part of
+your assignment (from idea generation to code generation to program debugging),
+document how you used it and cite the tool by providing a link to an online chat
+or include a screenshot or saved file of the tool's output.
 
 *Adapted from the [NYU Faculty Use of Generative AI in Coursework:
 Frequently Asked Questions](https://t.e2ma.net/click/w9j5ci/ozu8bgf/4fuzym) (PDF) and related university resources: [Instructor Generative
