@@ -36,7 +36,7 @@ of the Arts • Spring 2024
 | Date | Week | Assignment |
 | :--- | :--- | :--- |
 | Mar 25 | Week 8 | Proposals |
-| Apr | Weeks 9-13 | Project development |
+| Apr | Weeks 9-13 | Project Development |
 | May 6 | Week 14 | Presentations |
 
 ## Syllabus
