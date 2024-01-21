@@ -88,10 +88,7 @@ output(s) for your documentation. We'll compare notes on our processes and resul
 - Practice reading and writing your own code and try not use an AI to help you;
   we'll get there soon enough. Remember that this course values critical
   reflection of process over product. Embrace experimentation and getting stuck. Related quote from Rick Rubin in *The
-  Creative Act: A Way of Being*:
-  > Failure
-  > is the information you need
-  > to get where you're going
+  Creative Act: A Way of Being*: "Failure is the information you need to get where you're going"
 - Possible inspiration
   - [Tanabata(七夕)](https://openprocessing.org/sketch/926326) by Yurika Sayo
     (n.d.)
