@@ -13,9 +13,11 @@ function setup() {
 function draw() {
   let x = mouseX;
   let y = mouseY;
-
-  let ix = width - mouseX;
-  let iy = height - mouseY;
+  
+  let inverseX = width - mouseX;
+  let inverseY = height - mouseY;
+  
+   console.log("mouseX: " + mouseX, "the inverse: " + inverseX)
 
   if (mouseIsPressed) {
     background(80, 175);
@@ -27,7 +29,7 @@ function draw() {
   circle(x, height / 2, y);
 
   fill(0, 150);
-  circle(ix, height / 2, iy);
+  circle(inverseX, height / 2, inverseY);
 
   if (mouseY < rowHeight) {
     fill(20, 150);
