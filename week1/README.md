@@ -87,8 +87,15 @@ output(s) for your documentation. We'll compare notes on our processes and resul
   this approach to reverse engineer the algorithm.
 - Practice reading and writing your own code and try not use an AI to help you;
   we'll get there soon enough. Remember that this course values critical
-  reflection of process over product. Embrace experimentation and getting stuck. Related quote from Rick Rubin in *The
-  Creative Act: A Way of Being*: "Failure is the information you need to get where you're going"
+  reflection of process over product.
+- Embrace experimentation and getting stuck. Related quote from Rick Rubin in
+  *[The Creative Act: A Way of
+  Being](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990096038880107876)*:
+  > When working through ways of solving a puzzle, there are no mistakes. Each
+  unsuccessful solution gets you closer to one that works. Avoid becoming
+  attached to the particulars of problem. Widen your field of view. If the idea
+  takes the project somewhere with a stronger energetic charge, follow the new
+  direction.
 - Possible inspiration
   - [Tanabata(七夕)](https://openprocessing.org/sketch/926326) by Yurika Sayo
     (n.d.)
