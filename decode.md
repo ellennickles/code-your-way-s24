@@ -9,7 +9,8 @@ sketches:
 
 1. **Predict** • Before you run the sketch, look at the code and decide what it
    will do.
-    - Read through the code as if "you" were executing it like the computer, line by line.
+    - Read through the code as if "you" were executing it like the computer,
+      line by line.
     - What elements will appear? What will they look like, and how will they
       behave?
     - How many are there? Are they related to one another? How?
@@ -23,7 +24,8 @@ sketches:
     - Logging the values of variables and operations to the Console instead of
       calculating them in your head, i.e. `console.log(some variable or
       operation)`
-    - Changing function parameters and variable values in substantial ways.
+    - Changing function parameters and variable values in substantial ways, i.e.
+      make some numbers really big or really small
     - Commenting out parts of the code to see what happens or to help you focus
       on smaller sections at a time.
     - Write tracing statements to test the order in which statements are

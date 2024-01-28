@@ -4,7 +4,8 @@
 
 - [Class
   Slides](https://drive.google.com/drive/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak?usp=sharing)
-- [In-class code tracing example](link TBA)
+- [In-class code tracing
+  example](https://editor.p5js.org/enickles/sketches/BYxH62qMr)
 - [A Brief Introduction to Debugging Parts
   1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these
   strategies are universal for all programming languages) ~15min
@@ -87,24 +88,28 @@ code](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)), and then:
 
 ### Part 2: Ask AI
 
-AI tutor
+Follow up on one of your code questions from this week or last week using the
+[AI Tutor]() prompt. Describe how the interaction went for you. Did you gain any
+insights? Can you evaluate the tool's effectiveness and accuracy? Describe the
+specific examples it provided, and identify any areas where your understanding
+might still be lacking. Be sure to save the conversation for your documentation.
 
 ### Part 3: Re/Code
 
-- This assignment explores introduces unpredictability into our programs by
+- This assignment introduces unpredictability into our programs by
   coding procedural drawing rule sets with random functions. Invent your own
   rules and create a system that as Tyler Hobbs mentions in his talk, [Code goes
   in, Art comes out](https://www.youtube.com/watch?v=LBpqoj2nOQo), “balance[s]
   randomness and structure so the outcome is unpredictable and surprising but
   [has] a type of order that we still understand.” Challenge yourself to create
   something that is distinctive from the examples.
-- Can you combine aspects of the above for an unexpected design? Can you apply
-  unpredictability using `random()` or `noise()` (or both!) to color (stroke,
-  fill), size, stroke weight, rotation, using different types of [shapes or
-  curves](https://p5js.org/reference/#group-Shape), vertices of [custom
-  shapes](https://p5js.org/reference/#/p5/vertex), position, speed, etc.? Can
-  you animate your sketch or make  responsive/interactive? What functions and
-  techniques can you continue to practice from the previous week’s exercises?
+- Can you combine aspects from the above exercises for an unexpected design? Can
+  you apply unpredictability using `random()` or `noise()` (or both!) to color
+  (stroke, fill), size, stroke weight, rotation, using different types of
+  [shapes or curves](https://p5js.org/reference/#group-Shape), vertices of
+  [custom shapes](https://p5js.org/reference/#/p5/vertex), position, speed,
+  etc.? Can you animate your sketch or make  responsive/interactive? What
+  functions and techniques can you continue to practice from the previous week’s exercises?
 - If it helps, make a plan before you start (pseudocode).
 - Possible inspiration
   - Featured artists in the Class Slides
@@ -116,7 +121,7 @@ AI tutor
 
 ### Part 4: Document
 
-- Write a blog post. Link to your sketches from Part 1 and Part 3 and output
+- Write a blog post. Link to your sketches from Parts 1 and 3 and the output
   from Part 2.
 - Same as last week: reflect on the discoveries and challenges you encountered
   during the exercises. What graphic or animation effects are most pleasing to
