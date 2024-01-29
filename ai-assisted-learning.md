@@ -27,7 +27,7 @@ Students, with Prompts* (September 23, 2023). Available at SSRN:
 [https://ssrn.com/abstract=4475995](https://ssrn.com/abstract=4475995) or
 [http://dx.doi.org/10.2139/ssrn.4475995](http://dx.doi.org/10.2139/ssrn.4475995)
 
-**Ellen's notes in bold.**
+**Ellen's notes in bold**
 
 ### AI as Tool
 
