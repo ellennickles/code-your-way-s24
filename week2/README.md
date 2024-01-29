@@ -89,8 +89,10 @@ code](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)), and then:
 ### Part 2: Ask AI
 
 Follow up on one of your code questions from this week or last week using the
-[AI Tutor]() prompt. Describe how the interaction went for you. Did you gain any
-insights? Can you evaluate the tool's effectiveness and accuracy? Describe the
+[AI
+Tutor](https://github.com/ellennickles/code-your-way-s24/blob/main/ai-assisted-learning.md#ai-as-tutor)
+prompt. Describe how the interaction went for you. Did you gain any insights?
+Can you evaluate the tool's effectiveness and accuracy? Describe the
 specific examples it provided, and identify any areas where your understanding
 might still be lacking. Be sure to save the conversation for your documentation.
 
