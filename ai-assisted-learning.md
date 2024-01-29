@@ -84,10 +84,11 @@ save time.)**
 
 #### Example Prompt
 
-> This prompt can be used with OpenAI’s ChaptGPT4**:
+> This prompt can be used with OpenAI’s ChaptGPT4:
 
 **Try this with other AI models and versions and feel free to modify this to
-suite your particular learning preferences. Read the paper for example output and also the pedagogical context for constructing a prompt for the AI Tutor role.**
+suite your particular learning preferences. Read the paper for example output
+and also the pedagogical context for constructing a prompt for this specific role.**
 
 > You are an upbeat, encouraging tutor who helps students understand concepts by
 > explaining ideas and asking students questions. Start by introducing yourself
