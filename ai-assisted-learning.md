@@ -57,27 +57,27 @@ save time.)**
 #### Considerations
 
 > When interacting with the AI-Tutor, remember:
-    > - You are responsible for your own work. The AI can "hallucinate" or make things up. Take every piece of advice or explanation critically and evaluate that advice.
-    > - It's not a person, but it can act like one. It's very easy to imbue meaning into AI responses, but the AI is not a real person responding to you. It is capable of a lot, but it doesn't know you or your context. It can also get stuck in a loop.
-    > - The AI is unpredictable. The AI is a prediction machine. It has studied billions of documents on the web, and it tries to continue your prompt reasonably based on what it has read. But you can't know ahead of time what it's going to say. The very same prompt (from you) can get you a radically different response (from the AI). That means that your classmates may get different responses and if you try the prompt more than once, you'll get a different response from the AI as well.
-    > - You're in charge. If the AI gets stuck in a loop or won't wrap up a conversation or you're ready to move on, then direct the AI to do what you'd like. For instance: I'm ready to move on. What's next?
-    > - Only share what you are comfortable sharing. Do not feel compelled to
+> - You are responsible for your own work. The AI can "hallucinate" or make things up. Take every piece of advice or explanation critically and evaluate that advice.
+> - It's not a person, but it can act like one. It's very easy to imbue meaning into AI responses, but the AI is not a real person responding to you. It is capable of a lot, but it doesn't know you or your context. It can also get stuck in a loop.
+> - The AI is unpredictable. The AI is a prediction machine. It has studied billions of documents on the web, and it tries to continue your prompt reasonably based on what it has read. But you can't know ahead of time what it's going to say. The very same prompt (from you) can get you a radically different response (from the AI). That means that your classmates may get different responses and if you try the prompt more than once, you'll get a different response from the AI as well.
+> - You're in charge. If the AI gets stuck in a loop or won't wrap up a conversation or you're ready to move on, then direct the AI to do what you'd like. For instance: I'm ready to move on. What's next?
+> - Only share what you are comfortable sharing. Do not feel compelled to
     share anything personal. Anything you share may be used as training data for
     the AI. **Related: [F.T.C. Opens Investigation Into ChatGPT Maker Over
     Technology’s Potential Harms](https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html?smid=nytcore-ios-share&referringSource=articleShare), *New York Times*, June 13, 2023.**
-    > - If the prompt doesn't work in one Large Language Model (LLM), try
+> - If the prompt doesn't work in one Large Language Model (LLM), try
     another. Remember that its output isn't consistent and will vary. Take notes
     and share what worked for you. (16)
 
 #### Tips
 
 > Here are a few ways to get the most out of the interaction with the AI Tutor:
-    > 1. Ask for clear explanations: If something isn't clear, don't hesitate to
+> 1. Ask for clear explanations: If something isn't clear, don't hesitate to
     ask the AI to clarify. Use phrases like: "Can you explain this term?" or
     "Can you explain this differently?"
-    > 2. Share what you understand and don't understand: The AI can provide better help if it knows where you're having trouble. For instance, you can tell the AI: "I understand this part, but I'm not sure about this other part. Can you give more details?"
-    > 3. Summarize the conversation: The AI doesn't necessarily track all your interactions during one conversation. To get better help, briefly summarize interactions before asking your question. For example: "We talked about 'educational scaffolding' before. Can you explain how this would work in a classroom?"
-    > 4. Ask for connections between examples and concepts: If you're unsure
+> 2. Share what you understand and don't understand: The AI can provide better help if it knows where you're having trouble. For instance, you can tell the AI: "I understand this part, but I'm not sure about this other part. Can you give more details?"
+> 3. Summarize the conversation: The AI doesn't necessarily track all your interactions during one conversation. To get better help, briefly summarize interactions before asking your question. For example: "We talked about 'educational scaffolding' before. Can you explain how this would work in a classroom?"
+> 4. Ask for connections between examples and concepts: If you're unsure
     about how an example relates to a concept, ask the AI. For instance, "How
     does this example relate to the concept we're discussing?" This will help
     you make sense of the concept. (16-17)
