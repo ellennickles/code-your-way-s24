@@ -7,8 +7,6 @@ let y;
 let w;
 let h;
 
-let seed = 500;
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
   rectMode(CENTER);
@@ -40,6 +38,5 @@ function draw() {
 }
 
 function mousePressed() {
-  seed = random(4000);
   loop();
 }
