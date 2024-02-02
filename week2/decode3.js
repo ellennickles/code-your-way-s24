@@ -17,6 +17,7 @@ function setup() {
 
 function draw() {
   background(0);
+  randomSeed(seed)
   
   for (let i = 0; i < 100; i++) {
     
@@ -35,11 +36,8 @@ function draw() {
     
     line(startX, startY, endX, endY);
   }
-
-  noLoop();
 }
 
 function mousePressed() {
   seed = random(1000);
-  loop();
 }
