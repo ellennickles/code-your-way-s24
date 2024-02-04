@@ -52,7 +52,13 @@ and analyze the input code and predict the visual output:
 
 ### Part 2: Ask AI
 
-xxxx
+Reinforce your understanding of new topic that you recently learned about this
+week or in a past week by using the [AI
+Student](https://github.com/ellennickles/code-your-way-s24/blob/main/ai-assisted-learning.md#ai-as-student)
+prompt. reflect on your experience with the tool and share your insights. Did
+the AI accurately explain or illustrate the concept? Did anything unexpected
+happen? Did you discover anything about your own understanding of the concept?
+Did you check any external sources to assess the AI's output? Be sure to save the conversation for your documentation.
 
 ### Part 3: Re/Code
 
