@@ -18,7 +18,13 @@
     p5.js](https://thecodingtrain.com/tracks/webgl)
   - Forum discussions: [Forever trails on background with low
     alpha](https://discourse.processing.org/t/forever-trails-on-background-with-low-alpha/42541)
-    - Possible fix based on the example in the forum? [Remove `background()` from `setup()`](https://editor.p5js.org/enickles/sketches/3WF4lLfrJ)
+    - Possible fix based on the example in the forum? [Remove `background()`
+      from `setup()`](https://editor.p5js.org/enickles/sketches/3WF4lLfrJ)
+  - Working with seed values
+    - [Week 2 Decode 3](https://editor.p5js.org/enickles/sketches/XyoNEwuAe)
+      with `randomSeed()`
+    - [Week 2 Decode 5](https://editor.p5js.org/enickles/sketches/68wn1hZdh)
+      with `noiseSeed()`
 
 ## Assignment
 
