@@ -23,7 +23,7 @@ of the Arts • Spring 2024
 | :--- | :--- | :--- |
 | Jan 22 | Week 1 | [Pseudocoding / Looping Animations](https://github.com/ellennickles/code-your-way-s24/tree/main/week1) |
 | Jan 29 | Week 2 | [Debugging / Unpredictability](https://github.com/ellennickles/code-your-way-s24/tree/main/week2) |
-| Feb 5 | Week 3 | Pair Programming / Iterative Patterns 1 |
+| Feb 5 | Week 3 | [Pair Programming / Iterative Patterns 1](https://github.com/ellennickles/code-your-way-s24/tree/main/week3) |
 | Feb 12 | Week 4 | Version Control 1 / Iterative Patterns 2 |
 | Feb 19 | No Class | Presidents’ Day |
 | Feb 26 | Week 5 | Version Control 2 / Parametric Geometries |
