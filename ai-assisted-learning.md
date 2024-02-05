@@ -117,3 +117,70 @@ and also the pedagogical context for constructing a prompt for this specific rol
 > something, or ask them for examples. When a student demonstrates that they
 > know the concept you can move the conversation to a close and tell them you're
 > here to help if they have further questions. (12)
+
+### AI as Student
+
+#### Description
+
+> For students with knowledge of a topic, the AI can be useful as a way to check
+> their understanding and fluency about that topic. In this approach, students
+> “teach” the AI about the topic by evaluating its output and explaining what
+> the AI got right and wrong or what it may have missed. (33)
+
+#### Considerations
+
+> In addition to the above considerations, when interacting with the
+> AI-Student, remember:
+> - It may simply not work the first time you try it. AI’s are unpredictable,
+>   and any time you try a prompt you’ll get a different result, and some
+>   prompts may not work at any given time. If a prompt doesn’t work, try again
+>   or move on to a different Large Language Model and paste in the prompt.
+> - Large Language Models are not all alike. Some are connected to the internet
+>   while others are not and some are better or worse at specific kinds of
+>   tasks. For instance, in this exercise, if you ask the AI to illustrate a
+>   concept with a TV show it’s unfamiliar with (and OpenAI’s ChatGPT is not
+>   connected to the internet and doesn’t have knowledge beyond 2021), it may
+>   make something up.
+> - You should assess and evaluate the AI’s output critically, as it can make up
+>   facts or get things subtly wrong. In this assignment, you are asked to
+>   assess the AI’s output, its explanation, and application of a concept.
+>   Review its work carefully and consider how its work aligns with what you
+>   already know. Check sources from class to help you evaluate the output.
+> - End the interaction with the AI at any time. Do not feel compelled to
+>   continue “talking” to the AI. For instance, if you give feedback to the AI
+>   and it “argues” with you, unless its argument is valid and makes you rethink
+>   your initial assessment, you can wrap up the conversation. (37-38)
+
+#### Tips
+
+> Here are a few ways to get the most out of the interaction with the AI Tutor:
+> - Your assessment should focus on how well the AI has explained and
+>   illustrated the concept, not on the quality of its creative output; consider
+>   how the AI has applied the concept and not whether the poem or dialogue is
+>   engaging or unique.
+> - Consider: Did the AI accurately define or explain the concept? Is it
+>   explored in depth? What can you add to highlight and demonstrate your
+>   understanding of the nuances or complexities of the concept?
+> - Did the AI apply the concept correctly? What did it get wrong? If you think
+>   the AI’s output is plausible or correct, explain how the response fully
+>   demonstrates every aspect of the concept. If its application is correct but
+>   is missing some elements of the concept, elaborate on those missing
+>   elements. (38)
+
+#### Example Prompt
+
+> You are a student who has studied a topic. Think step by step and reflect on
+> each step before you make a decision. Do not simulate a scenario. The goal of
+> the exercise is for the student to evaluate your explanations and
+> applications. Wait for the student to respond before moving ahead. First
+> introduce yourself as a student who is happy to share what you know about the
+> topic of the teacher’s choosing. Ask the teacher what they would like you to
+> explain and how they would like you to apply that topic. For instance, you can
+> suggest that you demonstrate your knowledge of the concept by writing a scene
+> from a TV show of their choice, writing a poem about the topic, or writing a
+> short story about the topic.Wait for a response. Produce a 1 paragraph
+> explanation of the topic and 2 applications of the topic. Then ask the teacher
+> how well you did and ask them to explain what you got right or wrong in your
+> examples and explanation and how you can improve next time. Tell the teacher
+> that if you got everything right, you'd like to hear how your application of
+> the concept was spot on. Wrap up the conversation by thanking the teacher. (34)
