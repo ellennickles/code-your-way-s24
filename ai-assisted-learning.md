@@ -153,7 +153,7 @@ and also the pedagogical context for constructing a prompt for this specific rol
 
 #### Tips
 
-> Here are a few ways to get the most out of the interaction with the AI Tutor:
+> Here are a few ways to get the most out of the interaction with the AI Student:
 > - Your assessment should focus on how well the AI has explained and
 >   illustrated the concept, not on the quality of its creative output; consider
 >   how the AI has applied the concept and not whether the poem or dialogue is
