@@ -11,6 +11,14 @@
 - [All I Really Need to Know about Pair Programming I Learned In
   Kindergarten](https://drive.google.com/drive/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak?usp=sharing)
   by Laurie A. Williams and  Robert R. Kessler, 1999
+- Mentioned in class
+  - Code getting too long? Organize it into multiple files! [Video tutorial:
+    7.5: Multiple js Files](https://www.youtube.com/watch?v=Yk18ZKvXBj4)
+  - [Getting started with WebGL in
+    p5.js](https://thecodingtrain.com/tracks/webgl)
+  - Forum discussions: [Forever trails on background with low
+    alpha](https://discourse.processing.org/t/forever-trails-on-background-with-low-alpha/42541)
+    - Possible fix based on the example in the forum? [Remove `background()` from `setup()`](https://editor.p5js.org/enickles/sketches/3WF4lLfrJ)
 
 ## Assignment
 
