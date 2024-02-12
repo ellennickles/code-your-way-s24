@@ -15,7 +15,7 @@
   - [Review functions](https://editor.p5js.org/enickles/sketches/wnOgIFj1f)
   - [Review functions with nested
     loop (grid)](https://editor.p5js.org/enickles/sketches/bTvU9p4pM)
-- [Joan Truckenbrod: Punch cards to computer](https://vimeo.com/286992423)
+- [Joan Truckenbrod: Punch cards to computer](https://vimeo.com/286992423) (video)
 - Mentioned in class
   - Week 3 Recodes
     - [Elyana
