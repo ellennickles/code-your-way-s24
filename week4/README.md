@@ -9,7 +9,7 @@
 - Review arrays
   - [Part 1](https://editor.p5js.org/enickles/sketches/F6zHXMyZZ)
   - [Part 2](https://editor.p5js.org/enickles/sketches/kRdx-mV6z)
-  - [Part 3]() (custom
+  - [Part 3](https://editor.p5js.org/enickles/sketches/O34L-C776) (custom
     palette generator)
 - Review functions
   - [Review functions](https://editor.p5js.org/enickles/sketches/wnOgIFj1f)
