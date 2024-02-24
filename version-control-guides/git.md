@@ -75,20 +75,22 @@ $ git --version
 If installed, the output will look something like this:
 
 ```sh
-$ git version 2.24.1
+$ git version 2.33.0
 ```
 
 ### Install Git
 
+If git is not installed, follow these installation steps:
+
 - [Install on Mac](https://git-scm.com/download/mac)
   - There are many options!
   - Try first: **Binary installer** from Tim Harper > Version 2.33.0 > Automatic download > Install
-  - Type `git --version` again to verify
+  - Type `git --version` again to verify that the installation is complete
   - Keep the installer package with the README.txt for information if you need
     to resolve any issues
 - [Install on Windows](https://git-scm.com/download/win)
   - Try the first link > "Click here to download"
-  - Type `git --version` again to verify
+  - Type `git --version` again to verify that the installation is complete
 
 ### Configure Git
 
@@ -226,26 +228,26 @@ initializing an existing local directory on your computer. For this example we'l
    **working tree**, the collection of files and directories that exist in your
    local Git repository **which are currently being worked on or modified**.
 
-    - Stage all files:
+    a. Stage all files:
 
       ```sh
       $ git add .
       ```
 
-    - Check the status to help you build a mental model of what just happened:
+    b. Check the status to help you build a mental model of what just happened:
 
       ```sh
       $ git status
       ```
 
-    - Then commit (or save) the files in you local repository with a short
+    c. Then commit (or save) the files in you local repository with a short
       message describing the commit:
 
       ```sh
       $ git commit -m "Initial commit"
       ```
 
-    - Check the status again:
+    d. Check the status again:
 
       ```sh
       $ git status
@@ -312,7 +314,7 @@ The `git log` command shows the past commits in reverse chronological order and 
 $ git log
 ```
 
-In your console you'll see something like this:
+In your console, you'll see something like this:
 
 ```sh
 commit 45d57112e59d0d5c31976a205de4688a19e4a436 (HEAD -> main)
