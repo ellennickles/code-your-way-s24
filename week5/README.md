@@ -74,7 +74,9 @@ interactive, combine it with a previous sketch.
   - Initialize your p5 project directory as a Git repository.
   - Use our [Git
     Intro](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/git.md)
-    guide for reference and try:
+    and/or our [Class
+    Slides](https://drive.google.com/drive/u/1/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak)
+    from this week as references and try:
     - Committing your changes as you develop your sketch.
     - Creating at least one new branch to develop a version with a new
       feature  
@@ -82,8 +84,8 @@ interactive, combine it with a previous sketch.
     - Merging one branch into another
     - NOTE: As you work on your project in VS Code, saving changes there will
       not be automatically added to your Git repository. To "save" changes to
-      your Git repository, it's a two-step process in the terminal of (1) staging (adding) your
-      modified files and then (2) committing them.
+      your Git repository, it's a two-step process in the terminal of (1)
+      staging (adding) your modified files and then (2) committing them.
 - Possible inspiration
   - Featured artists in the Class Slides
   - Classic Windows screensavers that do not use parametric equations but are
