@@ -72,7 +72,9 @@ interactive, combine it with a previous sketch.
   full screen screensaver. (Hmmm... coming full circle to Week 1's preloaders?)
   Further extend one of your modified examples above or combine some?
   - Initialize your p5 project directory as a Git repository.
-  - Use our [Git Intro](https://github.com/ellennickles/code-your-way-s24/blob/main/week5/git.md) guide for reference and try:
+  - Use our [Git
+    Intro](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/git.md)
+    guide for reference and try:
     - Committing your changes as you develop your sketch.
     - Creating at least one new branch to develop a version with a new
       feature  
