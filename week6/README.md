@@ -17,7 +17,7 @@
   - [Example 4](https://editor.p5js.org/enickles/sketches/eG70VJ7aV)
     - [Refactored part 1](link TBA)
     - [Refactored part 2](link TBA)
-    - [Refactored part 3](link TBA) 
+    - [Refactored part 3](link TBA)
   - [Refactoring: Improving the Design of Existing Code, 2nd
     Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005592882&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,martin%20fowler&sortby=date&facet=frbrgroupid,include,1149505003&mode=basic&offset=0)
     by Martin Fowler, especially “Chapter 2: Principles in Refactoring” and
@@ -37,10 +37,10 @@
 ## Assignment
 
 - The ideas this week are to practice refactoring code that you have already
-  written and continue practicing Git version control. **Tip:** Working
-  with branches in git fits will code refactoring! Consider installing the [Oh
-  My Zsh shell framework](add link) to automatically display when you are in a
-  Git repository along with the current branch.
+  written and to continue practicing version control with Git. **Tip:** Refactor
+  your code in Git branches! Consider installing the [Oh My Zsh shell
+  framework](add link) (if not already implemented) to automatically display
+  when you are in a Git repository along with the current branch.
 
 ### Part 1: Refactor + Git
 
