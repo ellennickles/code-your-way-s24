@@ -27,7 +27,7 @@ of the Arts • Spring 2024
 | Feb 12 | Week 4 | [Version Control 1 / Iterative Patterns 2](https://github.com/ellennickles/code-your-way-s24/tree/main/week4) |
 | Feb 19 | No Class | Presidents’ Day |
 | Feb 26 | Week 5 | [Version Control 2 / Parametric Geometries](https://github.com/ellennickles/code-your-way-s24/tree/main/week5) |
-| Mar 4 | Week 6 | Version Control 3 / Refactoring |
+| Mar 4 | Week 6 | [Version Control 3 / Refactoring](https://github.com/ellennickles/code-your-way-s24/blob/main/week6/README.md) |
 | Mar 11 | Week 7 | Version Control 4 / Project Planning |
 | Mar 18 | No Class | Spring Break |
 
