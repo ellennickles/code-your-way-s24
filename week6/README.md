@@ -4,6 +4,9 @@
 
 - [Class
   Slides](https://drive.google.com/drive/u/1/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak)
+- Week 4 Exercises Redux
+  - [Exercise 4](https://editor.p5js.org/enickles/sketches/F3X6Domil)
+  - [Exercise 3](https://editor.p5js.org/enickles/sketches/ej7WsjtMK)
 - Refactoring
   - [Example 1](https://editor.p5js.org/enickles/sketches/er-wWoEpQ) /
     [Refactored](link TBA)
@@ -14,9 +17,7 @@
   - [Example 4](https://editor.p5js.org/enickles/sketches/eG70VJ7aV)
     - [Refactored part 1](link TBA)
     - [Refactored part 2](link TBA)
-    - [Refactored part 3](link TBA) We can talk more about the
-      [`return`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
-      keyword after the break
+    - [Refactored part 3](link TBA) 
   - [Refactoring: Improving the Design of Existing Code, 2nd
     Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005592882&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,martin%20fowler&sortby=date&facet=frbrgroupid,include,1149505003&mode=basic&offset=0)
     by Martin Fowler, especially “Chapter 2: Principles in Refactoring” and
@@ -32,16 +33,14 @@
     by David Thomas and Andrew Hunt (NYU Library online access)
   - [Naming things in
     JavaScript](https://gomakethings.com/naming-things-in-javascript/)
-- GitHub
-  - [GitHub
-    Intro](https://github.com/ellennickles/code-your-way-s23/blob/main/version-control-guides/github.md)
-    guide
-  - [Ellen's sample GitHub repo](https://github.com/ellennicklesdemo/p5sample)
 
 ## Assignment
 
-- The ideas this week are to practice refactoring code and storing code on
-  GitHub.
+- The ideas this week are to practice refactoring code that you have already
+  written and continue practicing Git version control. **Tip:** Working
+  with branches in git fits will code refactoring! Consider installing the [Oh
+  My Zsh shell framework](add link) to automatically display when you are in a
+  Git repository along with the current branch.
 
 ### Part 1: Refactor + Git
 
@@ -69,22 +68,11 @@
     files? (See [Coding Train video on how organize your code into multiple
     JavaScript files](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/6-objects/4-editor-js-files).)
   
-### Part 2: Document + GitHub
+### Part 2: Document
 
-- Push your repository to your GitHub account. Write a blog post that includes
-  the original code and a link to the refactored code in GitHub.
+- Write a blog post that includes a link to your refactored code.
 - Describe and reflect on the changes you made and why you made them. How did it
-  go with Git and GitHub this week? For all of it (including the coding part),
-  where did you get stuck, and what steps did you take troubleshoot? Anything
-  that you would like to explore and practice more?
+  go with Git this week? For all of it (including the coding part), where did
+  you get stuck, and what steps did you take troubleshoot? Anything that you
+  would like to explore and practice more?
 - [Submit here](https://forms.gle/ec4VxRgt8CtAjDGU7)
-
-### Part 3: Prepare for next class
-
-- After spring break, we’ll transition to the second part of the course in
-  which you’ll work on an independent project (which could also be a series of
-  smaller projects) of your choice. (And practice programming concepts and
-  strategies from the first half of semester even more!)
-- We'll talk a bit about independent projects in our next class. Start pondering
-  / brainstorming what you might like to do and be prepared to informally share
-  some nascent ideas when we meet.
