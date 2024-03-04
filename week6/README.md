@@ -18,6 +18,11 @@
     - [Refactored part 1](https://editor.p5js.org/enickles/sketches/r711FGdgE)
     - [Refactored part 2](https://editor.p5js.org/enickles/sketches/z2_QBCX1D)
     - [Refactored part 3](https://editor.p5js.org/enickles/sketches/p9M_8aom_)
+      (refactored with generic random number generator and bounce functions
+      using the `return` keyword. "*[What are return
+      values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)?
+      Return values are just what they sound like — the values that a function
+      returns when it completes.*")
   - [Refactoring: Improving the Design of Existing Code, 2nd
     Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005592882&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,martin%20fowler&sortby=date&facet=frbrgroupid,include,1149505003&mode=basic&offset=0)
     by Martin Fowler, especially “Chapter 2: Principles in Refactoring” and
