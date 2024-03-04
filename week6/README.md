@@ -9,15 +9,15 @@
   - [Exercise 3](https://editor.p5js.org/enickles/sketches/ej7WsjtMK)
 - Refactoring
   - [Example 1](https://editor.p5js.org/enickles/sketches/er-wWoEpQ) /
-    [Refactored](link TBA)
+    [Refactored](https://editor.p5js.org/enickles/sketches/MAj5MQ_yk)
   - [Example 2](https://editor.p5js.org/enickles/sketches/EQscgAK2b) /
-    [Refactored](link TBA)
+    [Refactored](https://editor.p5js.org/enickles/sketches/E0HRz9YjC)
   - [Example 3](https://editor.p5js.org/enickles/sketches/OXhVBDVMk) /
-    [Refactored](link TBA)
+    [Refactored](https://editor.p5js.org/enickles/sketches/_gTwYE_0i)
   - [Example 4](https://editor.p5js.org/enickles/sketches/eG70VJ7aV)
-    - [Refactored part 1](link TBA)
-    - [Refactored part 2](link TBA)
-    - [Refactored part 3](link TBA)
+    - [Refactored part 1](https://editor.p5js.org/enickles/sketches/r711FGdgE)
+    - [Refactored part 2](https://editor.p5js.org/enickles/sketches/z2_QBCX1D)
+    - [Refactored part 3](https://editor.p5js.org/enickles/sketches/p9M_8aom_)
   - [Refactoring: Improving the Design of Existing Code, 2nd
     Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005592882&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,martin%20fowler&sortby=date&facet=frbrgroupid,include,1149505003&mode=basic&offset=0)
     by Martin Fowler, especially “Chapter 2: Principles in Refactoring” and
