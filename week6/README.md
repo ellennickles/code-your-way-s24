@@ -43,7 +43,7 @@
 
 - The ideas this week are to practice refactoring code that you have already
   written and to continue practicing version control with Git. **Tip:** Refactor
-  your code in Git branches! Consider installing the [Oh My Zsh shell
+  your code in Git branches! See the steps in this week's (or last week's) class slides. Consider installing the [Oh My Zsh shell
   framework](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/tips-and-tricks.md#oh-my-zsh) (if not already implemented) to automatically display
   when you are in a Git repository along with the current branch.
 
