@@ -5,6 +5,7 @@
 - [Class
   Slides](https://drive.google.com/drive/u/1/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak)
 - Version control
+  - [GitHub Introduction](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/github.md)
   - [Tips and
     Tricks](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/tips-and-tricks.md)
   - All the guides consolidated
