@@ -1,13 +1,15 @@
-# Week 7 • Project Planning / Software Metaphors
+# Week 7 • Version Control 4 / Project Planning
 
 ## References
 
 - [Class
   Slides](https://drive.google.com/drive/u/1/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak)
 - Version control
-  - [Tips and Tricks](https://github.com/ellennickles/code-your-way-s23/blob/main/version-control-guides/tips-and-tricks.md)
-  - All the guides consolidated [here](https://github.com/ellennickles/code-your-way-s23/tree/main/version-control-guides)!
-
+  - [Tips and
+    Tricks](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/tips-and-tricks.md)
+  - All the guides consolidated
+    [here](https://github.com/ellennickles/code-your-way-s24/tree/main/version-control-guides)!
+  
 ## Assignment
 
 We are transitioning to the second part of the course: an environment for
