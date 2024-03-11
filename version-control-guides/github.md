@@ -128,7 +128,7 @@ In order to use your SSH private key, add it to another program called the
    - Open your `~/.ssh/config` file, then modify the file to contain the
      following lines. This command expects that the [default text
      editor is configured to use Visual Studio
-     Code](https://github.com/ellennickles/code-your-way-s24/blob/main/week5/git.md#set-default-text-editor):
+     Code](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/git.md#set-default-text-editor):
 
       ```ssh
       code ~/.ssh/config
