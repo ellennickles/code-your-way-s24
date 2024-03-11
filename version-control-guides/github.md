@@ -39,7 +39,7 @@ if you don't already have one.
  system. Watch this short Kahn Academy video, [Encryption and public
  keys](https://www.youtube.com/watch?v=6-JjHa-qLPk&t=387s), to learn more.
 
- NOTE: The process of setting up these keys might be different for everyone
+ **NOTE:** The process of setting up these keys might be different for everyone
  depending on their operating system version. If you run into issues, refer to
  the linked tutorials as a starting point.
 
