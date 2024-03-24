@@ -64,7 +64,13 @@ clear and realistic road map for yourself this week*:
     - Is the goal realistic? Consider any obstacles or requirements to help you
       decide.
     - Do you have the necessary knowledge, experience, tools, skills, resources,
-      and time? If not, what would it take to attain those?
+      and time? For example:
+      - What technologies are required? Why?
+      - What do you need to learn / research / decide?
+      - What assets / content / code already exists?
+      - What assets / content / code needs to be created?
+      - What resources / books / sites / examples will you rely on?
+    - If you don't have these, then what will it take to attain them?
     - Do you need to update your expectations?
 4. Relevant
     - How does your project's Hello World relate to or align with the goals in
@@ -89,5 +95,6 @@ Guide](https://www.ucop.edu/local-human-resources/_files/performance-appraisal/H
   breakthroughs? Do you need to shift your approach? Do you need different or
   additional resources? Revisit the goals in your proposal. Do you need to
   revise anything?
-- Include links to any code and references.
+- Include links to any code and references, including documentation from any
+  generative AI tools.
 - [Submit here](https://forms.gle/ec4VxRgt8CtAjDGU7)

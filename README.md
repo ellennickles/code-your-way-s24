@@ -38,8 +38,8 @@ of the Arts • Spring 2024
 | Mar 25 | Week 8 | [Project Proposals](https://github.com/ellennickles/code-your-way-s24/tree/main/week8) |
 | Apr 1 | Weeks 9 | Hello World |
 | Apr 8 | Week 10 | User Testing Round 1 |  
-| Apr 15 | Week 11 | User Testing Round 2 |
-| Apr 22 | Week 12 | Individual Meetings |
+| Apr 15 | Week 11 | Individual Meetings |
+| Apr 22 | Week 12 | User Testing Round 2 |
 | Apr 29 | Week 13 | Last Chance Workshop |
 | May 6 | Week 14 | Presentations |
 
