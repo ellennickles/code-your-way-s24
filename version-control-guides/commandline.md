@@ -21,7 +21,7 @@ Tarakajian's](https://github.com/catarak) [An introduction to the command line](
 
 ## Graphical user interface
 
-You're probably familiar with interacting with you computer using its Graphical User Interface, or GUI. If you want to open an application, say Firefox, you might find a graphical icon that represents the browser, use your mouse to hover over it, and double click on the icon to open the application. This is, in fact, how you do most of the actions on your computer, interacting with icons, or dropdown menus, or other visual elements.
+You're probably familiar with interacting with your computer using its Graphical User Interface, or GUI. If you want to open an application, say Firefox, you might find a graphical icon that represents the browser, use your mouse to hover over it, and double click on the icon to open the application. This is, in fact, how you do most of the actions on your computer, interacting with icons, or dropdown menus, or other visual elements.
 
 ## Command line interface
 
