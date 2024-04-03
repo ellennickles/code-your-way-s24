@@ -13,7 +13,7 @@
   - [Step 2: Push changes to a remote repository](#step-2-push-changes-to-a-remote-repository)
   - [Step 3: Pull changes from a remote repository](#step-3-pull-changes-from-a-remote-repository)
   - [Option: Clone a GitHub repository to a local directory](#option-clone-a-github-repository-to-a-local-directory)
-- [Part 4: Resources](#part-4-resources)
+- [Part 3: Resources](#part-3-resources)
 
 ## Part 0: Create a GitHub account
 
@@ -361,7 +361,7 @@ version of another repository that you find on GitHub:
     git clone git@github.com:THEGITHUBACCOUNT/REPONAME.git
     ```
 
-## Part 4: Resources
+## Part 3: Resources
 
 - [About Git (and how it works with
   GitHub)](https://docs.github.com/en/get-started/using-git/about-git)
