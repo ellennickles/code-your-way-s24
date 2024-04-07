@@ -9,7 +9,7 @@
 
 ### Part 1: Document and Keep Going
 
-- Write an analysis of this week's user testing results.
+- Write an analysis of this week's user testing / feedback results.
 - Rework your priority list as needed, and continue working on your project.
 - Note any developments and milestones, including any unexpected challenges or
   breakthroughs.
@@ -36,5 +36,5 @@
   out? What steps do you need to take? What resources and support do you need?
   How much time? In what aspect(s) would you like feedback? (What are you unsure
   of conceptually, creatively, or technically?) Etc.
-- [Submit your user testing feedback, progress, and timeline
+- [Submit your user feedback, current progress, and timeline
   here](https://forms.gle/ec4VxRgt8CtAjDGU7).
