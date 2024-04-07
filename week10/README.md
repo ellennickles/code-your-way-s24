@@ -30,7 +30,7 @@
 
 - Keep working on your project.
 - Summarize your progress so far and create a three-week timeline that
-  represents what you can realistically accomplish in the next two weeks before
+  represents what you can realistically accomplish in the next three weeks before
   before final project presentations.
 - What are you doing and what have you done so far? What do you need to figure
   out? What steps do you need to take? What resources and support do you need?
