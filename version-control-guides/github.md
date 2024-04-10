@@ -17,7 +17,7 @@
 
 ## Part 0: Create a GitHub account
 
-Github is a online service that allows you to host your Git version-controlled
+Github is an online service that allows you to host your Git version-controlled
 projects. It's a platform from which you can easily share your projects,
 software or otherwise, and also develop projects with others. The general idea
 is to motivate open software, knowledge sharing, and collaboration.
