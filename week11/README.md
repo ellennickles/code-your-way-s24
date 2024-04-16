@@ -2,7 +2,7 @@
 
 ## Assignment
 
-- Based on today’s conversation, rework your priority list as needed, and
+- Based on this week's conversation, rework your priority list as needed, and
   continue working on your project.
 - After next week, you'll have two (2) solid weeks to continue working on your
   project before our final class meeting.
