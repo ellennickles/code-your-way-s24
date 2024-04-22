@@ -1,5 +1,10 @@
 # Week 12 • User Testing Round 2
 
+## References
+
+- [Class
+  Slides](https://drive.google.com/drive/u/1/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak)
+
 ## Assignment
 
 - Next week’s class (Week 13) will be a flexible mixture of in-class work time
