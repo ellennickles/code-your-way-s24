@@ -4,6 +4,7 @@
 
 - [Class
   Slides](https://drive.google.com/drive/u/1/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak)
+- [Critique is creative: the critical response process in theory and action](https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990089159820107871) by Liz Lerman (2022) (available online through NYU library)
 
 ## Assignment
 
