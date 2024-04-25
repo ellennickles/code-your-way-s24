@@ -34,7 +34,7 @@
 
 ### Part 3: Share your project and your approach to programming
 
-- Prepare a ~ five (5) minute presentation about your project that **( 1 )
+- Prepare a ~ three (3) minute presentation about your project that **( 1 )
   describes what you made** and **( 2 ) reflects on your approach to making it**.
 - Ideally you learned more about your topic--and we can’t wait to hear about it!
   But also, what did you learn about your general approach to developing
