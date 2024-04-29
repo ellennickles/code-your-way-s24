@@ -40,8 +40,8 @@ of the Arts • Spring 2024
 | Apr 8 | Week 10 | [User Testing Round 1](https://github.com/ellennickles/code-your-way-s24/tree/main/week10) |  
 | Apr 15 | Week 11 | [Individual Meetings](https://github.com/ellennickles/code-your-way-s24/tree/main/week11) |
 | Apr 22 | Week 12 | [User Testing Round 2](https://github.com/ellennickles/code-your-way-s24/tree/main/week12) |
-| Apr 29 | Week 13 | Last Chance Workshop |
-| May 6 | Week 14 | Presentations |
+| Apr 29 | Week 13 | [Last Chance Workshop](https://github.com/ellennickles/code-your-way-s24/tree/main/week13) |
+| May 6 | Week 14 | [Presentations](https://github.com/ellennickles/code-your-way-s24/tree/main/week14) |
 
 ## Syllabus
 
